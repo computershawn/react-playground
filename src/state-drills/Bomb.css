@@ -1,0 +1,7 @@
+.bomb-cont {
+    background: tomato;
+    color: #fff;
+    border: 1px solid tomato;
+    padding: 1em;
+    margin: 1em 0;
+}
